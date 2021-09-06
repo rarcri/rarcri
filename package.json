@@ -4,19 +4,21 @@
   "description": "rarcri webpage",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve index.html"
   },
   "repository": {
     "type": "git",
     "url": "rarcri"
   },
-  "keywords": [
-    "webpage"
-  ],
+  "keywords": ["webpage"],
   "engines": {
     "node": "16.x",
     "npm": "7.x"
   },
   "author": "rarcri",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
 }
