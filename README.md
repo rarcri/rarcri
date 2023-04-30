@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rarcri
-- 👀 I’m interested in web-dev, Linux, content-creation 
+- 👀 I’m interested in Haxe, web-dev, Linux, content-creation 
 - 🌱 I’m currently learning node-js
 - 📫 How to reach me rarcri@protonmail.com
 
